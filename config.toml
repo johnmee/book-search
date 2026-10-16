@@ -1,0 +1,15 @@
+# BorrowBox library sites to search. Unknown slugs redirect to borrowbox.com and are reported as errors.
+
+[[library]]
+name = "wollongong"
+url = "https://wollongong.borrowbox.com"
+
+[[library]]
+name = "northernbeaches"
+url = "https://northernbeaches.borrowbox.com"
+
+# Port Stephens shares the Newcastle Libraries - NSW BorrowBox site.
+[[library]]
+name = "newcastle"
+url = "https://newcastle.borrowbox.com"
+
